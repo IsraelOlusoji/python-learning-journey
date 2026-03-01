@@ -10,6 +10,7 @@ The primary goal of this repository is to track my progress and keep all my Pyth
 
 Currently, the repository contains a mix of different exercises and utility scripts:
 
+- **`bill_splitter.py`**: Calculates total restaurant bills, applies tips, and splits the final cost evenly among friends, featuring proper error handling.
 - **`discount_calculator.py`**: Calculates the final price of an item after applying a percentage discount, with built-in error handling and type checking.
 - **`Employee_Profile_Generator.py`**: Uses Python `dataclasses` to manage employee profiles, parse complex employee codes, and generate formatted employee ID cards.
 - **`number_pattern_generator.py`**: Generates a formatted string sequence of numbers up to a given integer, demonstrating type hinting, input validation, and pythonic string joining.
