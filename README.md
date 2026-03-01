@@ -12,6 +12,7 @@ Currently, the repository contains a mix of different exercises and utility scri
 
 - **`discount_calculator.py`**: Calculates the final price of an item after applying a percentage discount, with built-in error handling and type checking.
 - **`Employee_Profile_Generator.py`**: Uses Python `dataclasses` to manage employee profiles, parse complex employee codes, and generate formatted employee ID cards.
+- **`number_pattern_generator.py`**: Generates a formatted string sequence of numbers up to a given integer, demonstrating type hinting, input validation, and pythonic string joining.
 - **`pin_extractor.py`**: A string parsing exercise that extracts numerical "secret pins" from lines of poetry based on word counts.
 - **`ticket_booking.py`**: A conditional logic script that determines ticket booking eligibility, discounts, and final pricing based on user conditions (age, showtime, membership).
 - **`weather_planner.py`**: A boolean logic calculator that evaluates trip feasibility based on distance, weather constraints, and available transportation modes.
