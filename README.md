@@ -17,6 +17,7 @@ Currently, the repository contains a mix of different exercises and utility scri
 - **`number_pattern_generator.py`**: Generates a formatted string sequence of numbers up to a given integer, demonstrating type hinting, input validation, and pythonic string joining.
 - **`pin_extractor.py`**: A string parsing exercise that extracts numerical "secret pins" from lines of poetry based on word counts.
 - **`ticket_booking.py`**: A conditional logic script that determines ticket booking eligibility, discounts, and final pricing based on user conditions (age, showtime, membership).
+- **`user_configuration_manager.py`**: Manages a user settings dictionary with functions to add, update, delete, and view settings, complete with type hinting and comprehensive test logging.
 - **`weather_planner.py`**: A boolean logic calculator that evaluates trip feasibility based on distance, weather constraints, and available transportation modes.
 
 *(Note: More scripts and projects will continually be added to this repository as I explore new concepts and build more complex applications!)*
