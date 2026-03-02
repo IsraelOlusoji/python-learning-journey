@@ -13,6 +13,7 @@ Currently, the repository contains a mix of different exercises and utility scri
 - **`bill_splitter.py`**: Calculates total restaurant bills, applies tips, and splits the final cost evenly among friends, featuring proper error handling.
 - **`discount_calculator.py`**: Calculates the final price of an item after applying a percentage discount, with built-in error handling and type checking.
 - **`Employee_Profile_Generator.py`**: Uses Python `dataclasses` to manage employee profiles, parse complex employee codes, and generate formatted employee ID cards.
+- **`medical_data_validator.py`**: Validates sets of mock medical records against defined constraints, ensuring data integrity, type correctness, and utilizing Python's `logging` module for production-like output.
 - **`number_pattern_generator.py`**: Generates a formatted string sequence of numbers up to a given integer, demonstrating type hinting, input validation, and pythonic string joining.
 - **`pin_extractor.py`**: A string parsing exercise that extracts numerical "secret pins" from lines of poetry based on word counts.
 - **`ticket_booking.py`**: A conditional logic script that determines ticket booking eligibility, discounts, and final pricing based on user conditions (age, showtime, membership).
